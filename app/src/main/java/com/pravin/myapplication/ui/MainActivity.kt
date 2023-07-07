@@ -10,7 +10,7 @@ import androidx.core.view.isVisible
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.pravin.myapplication.MainViewModel
 import com.pravin.myapplication.R
-import com.pravin.myapplication.data.model.Country
+import com.pravin.myapplication.domain.model.Country
 import com.pravin.myapplication.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.CoroutineScope

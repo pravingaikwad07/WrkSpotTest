@@ -3,7 +3,7 @@ package com.pravin.myapplication.data.repo
 import android.content.Context
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.pravin.myapplication.data.model.Country
+import com.pravin.myapplication.domain.model.Country
 import com.pravin.myapplication.netowrk.ApiService
 import dagger.hilt.android.qualifiers.ApplicationContext
 import java.lang.reflect.Type

@@ -1,6 +1,6 @@
 package com.pravin.myapplication.netowrk
 
-import com.pravin.myapplication.data.model.Country
+import com.pravin.myapplication.domain.model.Country
 import retrofit2.http.GET
 
 interface ApiService {

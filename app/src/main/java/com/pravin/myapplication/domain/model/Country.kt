@@ -1,4 +1,4 @@
-package com.pravin.myapplication.data.model
+package com.pravin.myapplication.domain.model
 
 data class Country(
     val abbreviation: String,

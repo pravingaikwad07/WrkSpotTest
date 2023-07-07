@@ -7,8 +7,8 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.pravin.myapplication.data.CountryListState
-import com.pravin.myapplication.data.CountryListUseCase
-import com.pravin.myapplication.data.model.Country
+import com.pravin.myapplication.domain.CountryListUseCase
+import com.pravin.myapplication.domain.model.Country
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow

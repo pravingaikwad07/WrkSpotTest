@@ -1,7 +1,7 @@
-package com.pravin.myapplication.data
+package com.pravin.myapplication.domain
 
 import com.pravin.myapplication.NwResponseState
-import com.pravin.myapplication.data.model.Country
+import com.pravin.myapplication.domain.model.Country
 import com.pravin.myapplication.data.repo.MainRepository
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow

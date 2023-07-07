@@ -7,7 +7,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.pravin.myapplication.R
 import com.pravin.myapplication.databinding.ItemCountryBinding
-import com.pravin.myapplication.data.model.Country
+import com.pravin.myapplication.domain.model.Country
 import com.squareup.picasso.Picasso
 
 

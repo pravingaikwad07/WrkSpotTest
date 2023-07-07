@@ -1,6 +1,6 @@
 package com.pravin.myapplication.data
 
-import com.pravin.myapplication.data.model.Country
+import com.pravin.myapplication.domain.model.Country
 
 data class CountryListState(
     val isLoading: Boolean = false,
