@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_population_1"
+        android:orderInCategory="100"
+        android:title="Population less 1M"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_population_5"
+        android:orderInCategory="100"
+        android:title="Population less 5M"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_population_10"
+        android:orderInCategory="100"
+        android:title="Population less 10M"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_clear"
+        android:orderInCategory="100"
+        android:title="Clear"
+        app:showAsAction="never" />
+</menu>
